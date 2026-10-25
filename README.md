@@ -41,24 +41,6 @@ The platform supports four user roles:
 - **ADRs:** numbered sequentially, e.g. `adr/0001-use-jwt-for-authentication.md`. Never edit an accepted ADR. Supersede it with a new one and link the two.
 - **Meeting notes:** include date, attendees, agenda, decisions, and action items with owners.
 
-### ADR template
-
-```markdown
-# ADR-NNNN: Title
-
-- **Status:** Proposed | Accepted | Superseded by ADR-XXXX
-- **Date:** YYYY-MM-DD
-
-## Context
-What problem or constraint led to this decision?
-
-## Decision
-What did we decide?
-
-## Consequences
-What becomes easier or harder as a result?
-```
-
 ## Contributing
 
 1. Create a branch from `main`: `docs/<short-description>`.
