@@ -4,6 +4,18 @@ Central home for the project documentation of **GMC Lanka Creations**, a full-st
 
 **Live site:** [gmc-lanka.lk](https://gmc-lanka.lk/)
 
+## Demo Credentials
+
+Use the following demo accounts to explore the GMC Lanka system.
+
+| Role | Email | Password |
+|---|---|---|
+| Customer | `tharsh.sarath@gmail.com` | `11092002` |
+| Admin | `tthushakaran19@gmail.com` | `Thusha@#19` |
+| Technician | `aswini2k20@gmail.com` | `Main@123` |
+
+
+
 This repository holds the written artifacts only. Source code lives in the sibling repositories listed below.
 
 ## What's in here
@@ -12,7 +24,10 @@ This repository holds the written artifacts only. Source code lives in the sibli
 | --- | --- |
 | `srs/` | Software Requirements Specification (latest version plus revision history) |
 | `sds/` | Software Design Specification: architecture, data model, API design |
-| `adr/` | Architecture Decision Records, one file per decision |
+| `security/` | owasp checklist|
+| `testing/` | test case register, performance report, coverage sprint 8 |
+| `restrospectives/` | Sprint Summary|
+
 
 ## Related repositories
 
